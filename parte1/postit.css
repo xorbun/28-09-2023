@@ -90,7 +90,7 @@ h3
 }
 .card8
 {
-    background-color:  rgb(243, 244, 298);
+    background-color:  rgb(205, 240, 201);
     text-align: center;
     transform: rotate(15deg);
     animation: zoom-in-zoom-out 1.2s linear 1;
@@ -103,7 +103,7 @@ h3
 
 @keyframes zoom-in-zoom-out {
     0% {
-      transform: scale(2, 2);
+      transform: scale(1.6, 1.6);
     }
     50% {
       transform: scale(1.5, 1.5);
